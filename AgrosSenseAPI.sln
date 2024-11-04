@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgrosSenseAPI", "AgrosSenseAPI.csproj", "{A4FDD4B7-2C17-4946-ADAC-A3EEAA97401E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgroSenseAPI.Tests", "..\AgroSenseAPI.Tests\AgroSenseAPI.Tests.csproj", "{91807D27-DB78-428F-BB7E-FC3A7F0395F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A4FDD4B7-2C17-4946-ADAC-A3EEAA97401E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4FDD4B7-2C17-4946-ADAC-A3EEAA97401E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4FDD4B7-2C17-4946-ADAC-A3EEAA97401E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91807D27-DB78-428F-BB7E-FC3A7F0395F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91807D27-DB78-428F-BB7E-FC3A7F0395F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91807D27-DB78-428F-BB7E-FC3A7F0395F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91807D27-DB78-428F-BB7E-FC3A7F0395F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
