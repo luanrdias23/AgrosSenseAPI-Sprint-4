@@ -1,0 +1,6 @@
+@AgrosSenseAPI_HostAddress = http://localhost:5278
+
+GET {{AgrosSenseAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
